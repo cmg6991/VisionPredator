@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 03f94b067ae0da04c8cfc7be2743c059
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NoiseTexture: {fileID: 2800000, guid: 96dcce1503826c54480ca5fa7f3190a2, type: 3}
+  - _BloodTexture: {fileID: 2800000, guid: a249c2d875aca274d9da013c99ce2278, type: 3}
+  - _FakeReflectionsTexture: {fileID: 2800000, guid: 023971914f4dcb747b62c8cacb179a7c,
+      type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

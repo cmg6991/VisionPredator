@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 23e1f5067f6c2ab4c99993b182118481
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _LUT: {fileID: 2800000, guid: d84574ab12d205a439e5f9616ce44b36, type: 3}
+  - _SmokeTexture: {fileID: 2800000, guid: 4ad233d79215d284aae54c3d45caf987, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

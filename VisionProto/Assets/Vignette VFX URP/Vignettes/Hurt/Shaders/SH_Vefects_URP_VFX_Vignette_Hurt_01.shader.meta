@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 77c92529e5a6e9649b375ef499cf287b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _VeinsTexture: {fileID: 2800000, guid: 4ad233d79215d284aae54c3d45caf987, type: 3}
+  - _LUT: {fileID: 2800000, guid: e3278d88466d64941ab1ae0c0c6b3f56, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
